@@ -1,2 +1,1 @@
-# Learn-JS
-Javascript Series
+
